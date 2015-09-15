@@ -1,4 +1,2 @@
 #!/usr/bin/osascript
-tell app "Safari"
-    activate
-end
+tell application "Safari" to set index of (windows where name is "") to 1
