@@ -1,4 +1,2 @@
 #!/usr/bin/osascript
-tell application "Safari"
-    activate
-end tell
+tell application "Safari" activate end tell
