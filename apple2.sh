@@ -1,2 +1,2 @@
 #!/usr/bin/osascript
-tell application "Safari" to set index of (windows where name is "") to 1
+tell application "Safari" to set miniaturized of window 1 to true end tell
