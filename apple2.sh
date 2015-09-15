@@ -1,4 +1,4 @@
 #!/usr/bin/osascript
 tell app "Safari"
-    make new document
+    activate
 end
