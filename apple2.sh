@@ -1,6 +1,5 @@
 #!/usr/bin/osascript
-delay 3
+delay 13
 tell application "Safari"
-	delay 3
 	activate
 end tell
