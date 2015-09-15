@@ -1,3 +1,3 @@
 #!/usr/bin/osascript
-tell application "Safari"
-end tell
+# tell application "Safari"
+# end tell
